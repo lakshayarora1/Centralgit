@@ -7,5 +7,5 @@ temp=$a
 a=$b
 b=$temp
 
-echo "the two numbers are:$a,$b"
+echo "the swapped two numbers are:a=$a,b=$b"
 
